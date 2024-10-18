@@ -1,4 +1,4 @@
-# JVL cart
+# SHOPEZ-BuyBuddy
 
 an E-commerce Website built with MERN stack.
 
